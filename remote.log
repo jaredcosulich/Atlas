@@ -1,0 +1,1 @@
+fdbd5d64-e920-45b2-a3f9-e80b9bcd4a20 bucket=powderhouse-atlas-jaredcosulich datacenter=US encryption=none exporttree=yes host=s3.amazonaws.com name=atlasS3 port=80 public=yes publicurl=https://s3.amazonaws.com/powderhouse-atlas-jaredcosulich/ storageclass=STANDARD type=S3 timestamp=1537366629.81238s
